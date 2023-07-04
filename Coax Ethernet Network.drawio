@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-03T23:40:34.960Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="X-vtzCbxZp0aaSW_HZUl" version="21.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-04T00:01:01.710Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="x1eRiKZeuSLp7z01MSHN" version="21.5.2" type="github">
   <diagram name="Página-1" id="l3W48SHhh2ZlZDR62sw5">
     <mxGraphModel dx="1834" dy="1146" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -49,7 +49,7 @@
         </mxCell>
         <mxCell id="uyOkbvqYTeOwgu7Op3V--10" value="Coax Cable" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="uyOkbvqYTeOwgu7Op3V--9" vertex="1" connectable="0">
           <mxGeometry x="-0.041" y="3" relative="1" as="geometry">
-            <mxPoint x="-5" y="-3" as="offset" />
+            <mxPoint x="25" y="-15" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="uyOkbvqYTeOwgu7Op3V--11" value="Moca Adapter (1)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -357,7 +357,7 @@
         <mxCell id="UsZ9BYW_dRJwkOO68vhF-1" value="Material to buy:" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="560" y="-40" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="UsZ9BYW_dRJwkOO68vhF-3" value="&lt;ul&gt;&lt;li&gt;2x Moca Adapters: 155€ (Amazon.es)&lt;br&gt;&lt;/li&gt;&lt;li&gt;Spliters: 5 ()&lt;br&gt;&lt;/li&gt;&lt;li&gt;Poe Injector: (Pode nao ser preciso)&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
+        <mxCell id="UsZ9BYW_dRJwkOO68vhF-3" value="&lt;ul&gt;&lt;li&gt;2x Moca Adapters: 155€ (Amazon.es)&lt;br&gt;&lt;/li&gt;&lt;li&gt;5x Spliters: &lt;br&gt;&lt;/li&gt;&lt;li&gt;1x Poe Filter:&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
           <mxGeometry x="720" y="-35" width="410" height="80" as="geometry" />
         </mxCell>
         <mxCell id="UsZ9BYW_dRJwkOO68vhF-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
@@ -368,6 +368,9 @@
         </mxCell>
         <mxCell id="UsZ9BYW_dRJwkOO68vhF-26" value="Optional" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="595" y="400" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UsZ9BYW_dRJwkOO68vhF-34" value="PoE" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" parent="1">
+          <mxGeometry x="240" y="537.5" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
