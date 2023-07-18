@@ -9,10 +9,9 @@ https://youtu.be/FM4FbA4-W_c
 Problems to Fix: 
 
  - **Sunshine**
- 1. Problems recording with AMD software
- 2. Slow PC
+ 1. Problems recording with AMD software & Slow PC (Solved by using DDU to uninstall all amd drivers, and then installing AMD Pro Adrenalin drivers)
 
 
 3- Raspberry PI
 
-https://www.hackster.io/435738/how-to-setup-your-raspberry-pi-headless-8a905f
+ * Running Discord Bot
